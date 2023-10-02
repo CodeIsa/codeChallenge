@@ -1,6 +1,6 @@
-# My Cypress Project
+# Code Challenge
 
-Welcome to My Cypress Project! This repository contains end-to-end tests for the [Amazon website] web application using Cypress.
+Welcome to My Cypress Project! This repository contains end-to-end tests for the [https://airmalta.com/en] web application using Cypress.
 
 ## Getting Started
 
@@ -36,8 +36,6 @@ Click on Chrome browsing and click on Start button
 
 ![image](https://github.com/CodeIsa/ae_automation_test/assets/48109634/27af4b33-9fa1-471a-bd03-9c55bd0fbfce)
 
-Click on "all.cy.ts" to run all the tests
-
-![image](https://github.com/CodeIsa/ae_automation_test/assets/48109634/02171847-3a03-4d1f-9ff4-8eff8ef9e9e9)
-
 Results of the tests:
+
+![codeChallenge](https://github.com/CodeIsa/codeChallenge/assets/48109634/8c5743b8-ca7d-40b5-8425-1297fc3a8d35)
