@@ -1,0 +1,20 @@
+{
+  "name": "codechallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open",
+    "test:chrome": "cypress open --browser chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cypress": "^1.1.3",
+    "@types/mocha": "^10.0.1",
+    "cypress": "^13.3.0",
+    "cypress-plugin-tab": "^1.0.5",
+    "typescript": "^5.1.6"
+  }
+}
